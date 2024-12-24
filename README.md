@@ -3,7 +3,9 @@
 # Description
 
 // !!!I WRITE THIS LIB FOR FUN, DONT USE THIS FOR SERIOS PROJECTS!!!
+
 // This documentation wriren by chat-gpt4o
+
 // I wrote the project myself
 
 The nVar project is a class for handling variables of various types, including strings, integers, floating-point numbers, arrays, and boolean values. All data is stored as hexadecimal strings to ensure security and consistency.
