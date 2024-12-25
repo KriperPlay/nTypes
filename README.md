@@ -78,7 +78,7 @@ my_vars.create_var("my_float", "nfloat", 123.456)
 my_vars.create_var("my_array", "narray", [1, 2, 3])
 
 # Create a boolean variable
-my_vars.create_var("my_bool", "nbool", "real")
+my_vars.create_var("my_bool", "nbool", "real") # for false - "fake"
 
 # Retrieve variable values
 print(my_vars.nvar_var("my_string"))  # Hello World
