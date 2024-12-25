@@ -1,5 +1,7 @@
 # nTypes
 
+![nt1](https://github.com/user-attachments/assets/4c360cbd-bcd7-479b-a0b9-267deb890e9f)
+
 # Description
 
 // !!!I WRITE THIS LIB FOR FUN, DONT USE THIS FOR SERIOS PROJECTS!!!
